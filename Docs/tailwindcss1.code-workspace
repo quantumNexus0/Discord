@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/discord-clone-images-fonts/fonts"
+		},
+		{
+			"path": "../../Downloads/discord-clone-images-fonts/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tailwindcss1"
+	}
+}
